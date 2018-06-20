@@ -1,0 +1,18 @@
+AGENDA -*- mode: org -*-
+* TODO Learn how to pull ISC Data tasks<2018-06-18 Mon>
+
+* IN-PROGRESS ETL DJQ<2018-06-18 Mon>
+
+* TODO ETL SJQ<2018-06-18 Mon>
+
+* TODO Preload<2018-06-18 Mon>
+
+* TODO Prelim<2018-06-18 Mon>
+
+* TODO Orphans<2018-06-18 Mon>
+
+* TODO PIMS/SAP Changes<2018-06-18 Mon>
+
+* TODO QA Flags<2018-06-21 Thu>
+
+* IN-REVIEW List Of Potential Changes[2018-06-19 Tue 16:59]

@@ -1,0 +1,12 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* IN-PROGRESS Welcome to Org mode
+** IN-PROGRESS Learn more Org mode
+* TODO setup linux on apu2 cluster-nas
+* DONE sleep
+** DONE Moving around in our outline
+** IN-REVIEW Moving around headlines
+* TODO Customize Org profile.
+* 
+
